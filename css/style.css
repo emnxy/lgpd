@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: 20px;
+    font-family: tahoma;
+    color: #929292;
+    scroll-behavior: smooth;
+    text-decoration: none;
+}
+
+.body_index {
+    background-color: #A0E6E1;
+}
+
+.header_index {
+    background-color: #9DCBF2;
+    width: 8%;
+    height: 963px;
+    position: fixed;
+    top: 2%;
+    margin: 0% 0.8%;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+    box-shadow: 8px 8px 8px 6px white;
+}
+
+.p_header {
+    font-size: 25px;
+}
+
+.dc00 {
+    display: flex;
+    flex-direction: row;
+}
+
+.h2_index_header {
+    text-align: center;
+    font-size: 20px;
+    margin: 0.5% 0%;
+}
+
+.nav_index {
+    background-color: #9DCBF2;
+    border-radius: 20px;
+    margin: 1.85% 11%;
+    width: 88%;
+    height: 66px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 8px 8px 8px 6px white;
+}
+
+.h2_index_header {
+    font-size: 30px;
+}
+
+.main_index {
+    background-color: #A4EBFC;
+    border-radius: 25px;
+    width: 88%;
+    height: 2666px;
+    margin: 2% 11%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    box-shadow: 8px 8px 8px 6px white;
+}
+
+.box22 {
+    width: 97%;
+    border-radius: 22px;
+    background-color: #9DCBF2;
+    margin: 2% 1.5%;
+    height: 400px;
+    box-shadow: 8px 8px 8px 6px white;
+}
+
+.h2_main {
+    font-size: 40px;
+    margin: 10.5% 3%;
+}
+
+.material-symbols-outlined {
+    font-size: 80px !important;
+    margin: 9.5% 0%;
+}
+
+.footer_index {
+    background-color: #9DCBF2;
+    border-radius: 20px;
+    margin: 1.85% 11%;
+    width: 88%;
+    height: 66px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 8px 8px 8px 6px white;
+}
+
+.p_footer {
+    font-size: 25px;
+}
+
+.dc22 {
+    width: 59%;
+    height: 300px;
+    margin: -19% 36%;
+    font-size: 23px;
+    text-align: center;
+}
+
+.dc23 {
+    width: 59%;
+    height: 300px;
+    margin: -21% 36%;
+    font-size: 23px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dc25 {
+    width: 59%;
+    height: 300px;
+    margin: -21.5% 36%;
+    font-size: 23px;
+    text-align: center;
+}
