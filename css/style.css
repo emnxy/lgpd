@@ -9,11 +9,11 @@
 }
 
 .body_index {
-    background-color: #A0E6E1;
+    background-color: #E8E2DD;
 }
 
 .header_index {
-    background-color: #9DCBF2;
+    background-color: #F4CAD2;
     width: 8%;
     height: 963px;
     position: fixed;
@@ -44,7 +44,7 @@
 }
 
 .nav_index {
-    background-color: #9DCBF2;
+    background-color: #F4CAD2;
     border-radius: 20px;
     margin: 1.85% 11%;
     width: 88%;
@@ -60,7 +60,7 @@
 }
 
 .main_index {
-    background-color: #A4EBFC;
+    background-color: #FFF6E6;
     border-radius: 25px;
     width: 88%;
     height: 2666px;
@@ -74,7 +74,7 @@
 .box22 {
     width: 97%;
     border-radius: 22px;
-    background-color: #9DCBF2;
+    background-color: #F4CAD2;
     margin: 2% 1.5%;
     height: 400px;
     box-shadow: 8px 8px 8px 6px white;
@@ -91,7 +91,7 @@
 }
 
 .footer_index {
-    background-color: #9DCBF2;
+    background-color: #F4CAD2;
     border-radius: 20px;
     margin: 1.85% 11%;
     width: 88%;
